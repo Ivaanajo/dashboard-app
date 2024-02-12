@@ -23,16 +23,16 @@ used Props Drilling to communicate between Parent Child Component
 Used Hooks and functional component to write the code 	
 - useRef, useState, useEffect
 #used babel-loader for transpile 
-# Used webpack bundler
-# the package doesnt not contain the node_modules needs to be installed to test the code (npm install or yarn)
+- Used webpack bundler
+- the package doesnt not contain the node_modules needs to be installed to test the code (npm install or yarn)
 
 
 # about the Features
-# completed most of the it but not able to do cross filtering from card visual and bar Chart
-# added filters for filtering in the page
-# table visual can be used for cross-filtering
-# Given more time can finish the cross-filtering features for all visuals
-# To enable cross-Filtering for table I used map function to work with parent and the child
-# Same logic was not applicable for Bar chart and Card since I have SVG (d3) model more graph structure
-# So I would take more time to finish cross-filter for other visual 
-# also completed power BI visual which Im experience and good for dashboard development.
+- completed most of the it but not able to do cross filtering from card visual and bar Chart
+- added filters for filtering in the page
+- table visual can be used for cross-filtering
+- Given more time can finish the cross-filtering features for all visuals
+- To enable cross-Filtering for table I used map function to work with parent and the child
+- Same logic was not applicable for Bar chart and Card since I have SVG (d3) model more graph structure
+- So I would take more time to finish cross-filter for other visual 
+- also completed power BI visual which Im experience and good for dashboard development.
