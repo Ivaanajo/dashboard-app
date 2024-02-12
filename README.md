@@ -9,9 +9,9 @@ or
 yarn
 ````
 This project has been created using **webpack-cli**, you can now run
-npm run build
+**npm run build**
 or
-yarn build
+**yarn build**
 to bundle application
 # React | JSX | CSS 
 # D3 library for chart and card visuals
