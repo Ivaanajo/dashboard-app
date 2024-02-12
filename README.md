@@ -7,6 +7,7 @@ npm install
 or
 ```
 yarn
+````
 
 This project has been created using **webpack-cli**, you can now run
 ```
