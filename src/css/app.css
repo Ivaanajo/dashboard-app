@@ -1,0 +1,10 @@
+.filter-container {
+    display: flex; /* Set display to flex */
+    width: 100%; /* Occupy full width of the parent */
+  }
+  
+  .filter-container > div {
+    width: 50%; /* Each filter div occupies 50% of the screen */
+    padding: 0 10px; /* Optional: Add padding for spacing */
+  }
+  

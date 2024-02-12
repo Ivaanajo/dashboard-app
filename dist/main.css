@@ -1,0 +1,39 @@
+.table-container {
+    position: fixed;
+    top: 375px;
+    right:150px;
+    width: 50%; /* Set container width to 50% of the screen */
+  }
+.table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 6px; /* Reduce padding */
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #ddd;
+  }
+.filter-container {
+    display: flex; /* Set display to flex */
+    width: 100%; /* Occupy full width of the parent */
+  }
+  
+  .filter-container > div {
+    width: 50%; /* Each filter div occupies 50% of the screen */
+    padding: 0 10px; /* Optional: Add padding for spacing */
+  }
+  
