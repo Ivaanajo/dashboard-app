@@ -13,9 +13,6 @@ npm run build
 or
 yarn build
 to bundle your application
-
-Dashboard – App
-
 # React | JSX | CSS 
 # D3 library for chart and card visuals
 # App structure: 
