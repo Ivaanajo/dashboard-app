@@ -12,14 +12,14 @@ to bundle your application
 
 Dashboard – App
 
-# Used React | JSX | CSS to complete the code 
-# Used D3 library for chart and card visuals
-# The structure of the App is 
+# React | JSX | CSS 
+# D3 library for chart and card visuals
+# App structure: 
 - Created 3 components
 * Table Visual
 * Bar Chart Visual
 * Card Visual – 4 Cards
-used Props Drilling to communicate between Parent Child Component
+used Props Drilling to communicate between Parent Child Components
 Used Hooks and functional component to write the code 	
 - useRef, useState, useEffect
 - used babel-loader for transpile 
